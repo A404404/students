@@ -1,6 +1,6 @@
 class diff{
   public static void main(){
-      
+      System.out.println("is it gettig updated");
   
   
   }
